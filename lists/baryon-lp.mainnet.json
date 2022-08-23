@@ -130,6 +130,27 @@
             }
         },
         {
+            "address": "0xE5613Fbb3d02565546a7A2A715AcA53834Bf1293",
+            "symbol": "OGS-BUSD",
+            "name": "Baryon OGS-BUSD Baryon LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0xe5613fbb3d02565546a7a2a715aca53834bf1293/icon.png",
+            "decimals": 18,
+            "chainId": 56,
+            "extensions": {
+                "twitter": "https://twitter.com/BaryonNetwork",
+                "source": "Baryon",
+                "website": "https://baryon.network/pool/0xe5613fbb3d02565546a7a2a715aca53834bf1293",
+                "underlyingTokens": [
+                    "0x416947e6Fc78F158fd9B775fA846B72d768879c2",
+                    "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+                ],
+                "pool": "0xe5613fbb3d02565546a7a2a715aca53834bf1293",
+                "token0Img": "https://coin98.s3.amazonaws.com/Z1i2LgWGqjJ3gY2x",
+                "token1Img": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
+                "description": "Baryon LP token between Ouro Governance Share and B-Peg BUSD"
+            }
+        },
+        {
             "address": "0x346B28b0da0cBa94f66a20D657cd03bAa273Cc99",
             "symbol": "USDT-CUSD",
             "name": "Baryon USDT-CUSD Baryon LP",
@@ -169,27 +190,6 @@
                 "token0Img": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
                 "token1Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
                 "description": "Baryon LP token between USD Coin and Coin98 Dollar"
-            }
-        },
-        {
-            "address": "0xE5613Fbb3d02565546a7A2A715AcA53834Bf1293",
-            "symbol": "OGS-BUSD",
-            "name": "Baryon OGS-BUSD Baryon LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0xe5613fbb3d02565546a7a2a715aca53834bf1293/icon.png",
-            "decimals": 18,
-            "chainId": 56,
-            "extensions": {
-                "twitter": "https://twitter.com/BaryonNetwork",
-                "source": "Baryon",
-                "website": "https://baryon.network/pool/0xe5613fbb3d02565546a7a2a715aca53834bf1293",
-                "underlyingTokens": [
-                    "0x416947e6Fc78F158fd9B775fA846B72d768879c2",
-                    "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
-                ],
-                "pool": "0xe5613fbb3d02565546a7a2a715aca53834bf1293",
-                "token0Img": "https://coin98.s3.amazonaws.com/Z1i2LgWGqjJ3gY2x",
-                "token1Img": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
-                "description": "Baryon LP token between Ouro Governance Share and B-Peg BUSD"
             }
         },
         {
@@ -235,48 +235,6 @@
             }
         },
         {
-            "address": "0x3c88a0F902D6d39864C2cc2b1D3A8a08896be986",
-            "symbol": "EBA-CUSD",
-            "name": "Baryon EBA-CUSD Baryon LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x3c88a0f902d6d39864c2cc2b1d3a8a08896be986/icon.png",
-            "decimals": 18,
-            "chainId": 56,
-            "extensions": {
-                "twitter": "https://twitter.com/BaryonNetwork",
-                "source": "Baryon",
-                "website": "https://baryon.network/pool/0x3c88a0f902d6d39864c2cc2b1d3a8a08896be986",
-                "underlyingTokens": [
-                    "0x3944aC66b9b9B40a6474022D6962b6cAA001b5E3",
-                    "0xFa4BA88Cf97e282c505BEa095297786c16070129"
-                ],
-                "pool": "0x3c88a0f902d6d39864c2cc2b1d3a8a08896be986",
-                "token0Img": "https://coin98.s3.amazonaws.com/RUH6AWvdBl2vYJ57",
-                "token1Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
-                "description": "Baryon LP token between Elpis Battle and Coin98 Dollar"
-            }
-        },
-        {
-            "address": "0xF94f0577Da2913b29C40E87D73807227bbD35c13",
-            "symbol": "IDIA-CUSD",
-            "name": "Baryon IDIA-CUSD Baryon LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0xf94f0577da2913b29c40e87d73807227bbd35c13/icon.png",
-            "decimals": 18,
-            "chainId": 56,
-            "extensions": {
-                "twitter": "https://twitter.com/BaryonNetwork",
-                "source": "Baryon",
-                "website": "https://baryon.network/pool/0xf94f0577da2913b29c40e87d73807227bbd35c13",
-                "underlyingTokens": [
-                    "0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89",
-                    "0xFa4BA88Cf97e282c505BEa095297786c16070129"
-                ],
-                "pool": "0xf94f0577da2913b29c40e87d73807227bbd35c13",
-                "token0Img": "https://coin98.s3.amazonaws.com/JXxDDtJKASh0SSt5",
-                "token1Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
-                "description": "Baryon LP token between Impossible Decentralized Incubator Access and Coin98 Dollar"
-            }
-        },
-        {
             "address": "0x44F75791fd6dC61C0C4555eE8a85F4C5fC36BbB6",
             "symbol": "HOTCROSS-BUSD",
             "name": "Baryon HOTCROSS-BUSD Baryon LP",
@@ -298,24 +256,24 @@
             }
         },
         {
-            "address": "0xd594827Cf8fF50d50a71A20B60ecdE739964A545",
-            "symbol": "OSWAP-CUSD",
-            "name": "Baryon OSWAP-CUSD Baryon LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0xd594827cf8ff50d50a71a20b60ecde739964a545/icon.png",
+            "address": "0x3c88a0F902D6d39864C2cc2b1D3A8a08896be986",
+            "symbol": "EBA-CUSD",
+            "name": "Baryon EBA-CUSD Baryon LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x3c88a0f902d6d39864c2cc2b1d3a8a08896be986/icon.png",
             "decimals": 18,
             "chainId": 56,
             "extensions": {
                 "twitter": "https://twitter.com/BaryonNetwork",
                 "source": "Baryon",
-                "website": "https://baryon.network/pool/0xd594827cf8ff50d50a71a20b60ecde739964a545",
+                "website": "https://baryon.network/pool/0x3c88a0f902d6d39864c2cc2b1d3a8a08896be986",
                 "underlyingTokens": [
-                    "0xb32aC3C79A94aC1eb258f3C830bBDbc676483c93",
+                    "0x3944aC66b9b9B40a6474022D6962b6cAA001b5E3",
                     "0xFa4BA88Cf97e282c505BEa095297786c16070129"
                 ],
-                "pool": "0xd594827cf8ff50d50a71a20b60ecde739964a545",
-                "token0Img": "https://coin98.s3.amazonaws.com/ttH1wuSUIz4vjMDS",
+                "pool": "0x3c88a0f902d6d39864c2cc2b1d3a8a08896be986",
+                "token0Img": "https://coin98.s3.amazonaws.com/RUH6AWvdBl2vYJ57",
                 "token1Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
-                "description": "Baryon LP token between OpenSwap and Coin98 Dollar"
+                "description": "Baryon LP token between Elpis Battle and Coin98 Dollar"
             }
         },
         {
@@ -340,6 +298,27 @@
             }
         },
         {
+            "address": "0xF94f0577Da2913b29C40E87D73807227bbD35c13",
+            "symbol": "IDIA-CUSD",
+            "name": "Baryon IDIA-CUSD Baryon LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0xf94f0577da2913b29c40e87d73807227bbd35c13/icon.png",
+            "decimals": 18,
+            "chainId": 56,
+            "extensions": {
+                "twitter": "https://twitter.com/BaryonNetwork",
+                "source": "Baryon",
+                "website": "https://baryon.network/pool/0xf94f0577da2913b29c40e87d73807227bbd35c13",
+                "underlyingTokens": [
+                    "0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89",
+                    "0xFa4BA88Cf97e282c505BEa095297786c16070129"
+                ],
+                "pool": "0xf94f0577da2913b29c40e87d73807227bbd35c13",
+                "token0Img": "https://coin98.s3.amazonaws.com/JXxDDtJKASh0SSt5",
+                "token1Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
+                "description": "Baryon LP token between Impossible Decentralized Incubator Access and Coin98 Dollar"
+            }
+        },
+        {
             "address": "0x7B1C395e87404d4DA0eb86DFD6b09cF0B1AeEb65",
             "symbol": "C98-USDT",
             "name": "Baryon C98-USDT Baryon LP",
@@ -358,6 +337,27 @@
                 "token0Img": "https://coin98.s3.amazonaws.com/uwqLJuMfd8fsehgM",
                 "token1Img": "https://coin98.s3.amazonaws.com/ezlQ989CDrZKqHyF",
                 "description": "Baryon LP token between Coin98 and Tether"
+            }
+        },
+        {
+            "address": "0xd594827Cf8fF50d50a71A20B60ecdE739964A545",
+            "symbol": "OSWAP-CUSD",
+            "name": "Baryon OSWAP-CUSD Baryon LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0xd594827cf8ff50d50a71a20b60ecde739964a545/icon.png",
+            "decimals": 18,
+            "chainId": 56,
+            "extensions": {
+                "twitter": "https://twitter.com/BaryonNetwork",
+                "source": "Baryon",
+                "website": "https://baryon.network/pool/0xd594827cf8ff50d50a71a20b60ecde739964a545",
+                "underlyingTokens": [
+                    "0xb32aC3C79A94aC1eb258f3C830bBDbc676483c93",
+                    "0xFa4BA88Cf97e282c505BEa095297786c16070129"
+                ],
+                "pool": "0xd594827cf8ff50d50a71a20b60ecde739964a545",
+                "token0Img": "https://coin98.s3.amazonaws.com/ttH1wuSUIz4vjMDS",
+                "token1Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
+                "description": "Baryon LP token between OpenSwap and Coin98 Dollar"
             }
         },
         {
