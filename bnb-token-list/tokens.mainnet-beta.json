@@ -140,7 +140,7 @@
                 "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
             ],
             "pool": "0xe5613fbb3d02565546a7a2a715aca53834bf1293",
-            "token0Img": "https://coin98.s3.amazonaws.com/Z1i2LgWGqjJ3gY2x",
+            "token0Img": "https://coin98.s3.amazonaws.com/zKJkd8rNLOkrk6vR",
             "token1Img": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
             "description": "Baryon LP token between Ouro Governance Share and B-Peg BUSD"
         }
@@ -371,7 +371,7 @@
                 "0xFa4BA88Cf97e282c505BEa095297786c16070129"
             ],
             "pool": "0x204e54c4f3720a5fa069d32af029b6e8ba317e63",
-            "token0Img": "https://coin98.s3.amazonaws.com/Z1i2LgWGqjJ3gY2x",
+            "token0Img": "https://coin98.s3.amazonaws.com/zKJkd8rNLOkrk6vR",
             "token1Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
             "description": "Baryon LP token between Ouro Governance Share and Coin98 Dollar"
         }
