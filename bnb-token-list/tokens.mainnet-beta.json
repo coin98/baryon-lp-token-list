@@ -146,27 +146,6 @@
         }
     },
     {
-        "address": "0x346B28b0da0cBa94f66a20D657cd03bAa273Cc99",
-        "symbol": "USDT-CUSD",
-        "name": "Baryon USDT-CUSD Baryon LP",
-        "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x346b28b0da0cba94f66a20d657cd03baa273cc99/icon.png",
-        "decimals": 18,
-        "chainId": 56,
-        "extensions": {
-            "twitter": "https://twitter.com/BaryonNetwork",
-            "source": "Baryon",
-            "website": "https://baryon.network/pool/0x346b28b0da0cba94f66a20d657cd03baa273cc99",
-            "underlyingTokens": [
-                "0x55d398326f99059fF775485246999027B3197955",
-                "0xFa4BA88Cf97e282c505BEa095297786c16070129"
-            ],
-            "pool": "0x346b28b0da0cba94f66a20d657cd03baa273cc99",
-            "token0Img": "https://coin98.s3.amazonaws.com/ezlQ989CDrZKqHyF",
-            "token1Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
-            "description": "Baryon LP token between Tether and Coin98 Dollar"
-        }
-    },
-    {
         "address": "0x29a4b777D7C12238E612c646e7f32195cE994551",
         "symbol": "USDC-CUSD",
         "name": "Baryon USDC-CUSD Baryon LP",
@@ -185,6 +164,27 @@
             "token0Img": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
             "token1Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
             "description": "Baryon LP token between USD Coin and Coin98 Dollar"
+        }
+    },
+    {
+        "address": "0x346B28b0da0cBa94f66a20D657cd03bAa273Cc99",
+        "symbol": "USDT-CUSD",
+        "name": "Baryon USDT-CUSD Baryon LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x346b28b0da0cba94f66a20d657cd03baa273cc99/icon.png",
+        "decimals": 18,
+        "chainId": 56,
+        "extensions": {
+            "twitter": "https://twitter.com/BaryonNetwork",
+            "source": "Baryon",
+            "website": "https://baryon.network/pool/0x346b28b0da0cba94f66a20d657cd03baa273cc99",
+            "underlyingTokens": [
+                "0x55d398326f99059fF775485246999027B3197955",
+                "0xFa4BA88Cf97e282c505BEa095297786c16070129"
+            ],
+            "pool": "0x346b28b0da0cba94f66a20d657cd03baa273cc99",
+            "token0Img": "https://coin98.s3.amazonaws.com/ezlQ989CDrZKqHyF",
+            "token1Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
+            "description": "Baryon LP token between Tether and Coin98 Dollar"
         }
     },
     {
