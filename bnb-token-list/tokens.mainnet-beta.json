@@ -42,26 +42,6 @@
         }
     },
     {
-        "address": "0x513DB2D6e1AE37a68296333F388a67041d05abc4",
-        "symbol": "BNB-BUSD",
-        "name": "Baryon BNB-BUSD Baryon LP",
-        "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x513db2d6e1ae37a68296333f388a67041d05abc4/icon.png",
-        "decimals": 18,
-        "chainId": 56,
-        "extensions": {
-            "twitter": "https://twitter.com/BaryonNetwork",
-            "source": "Baryon",
-            "website": "https://baryon.network/pool/0x513db2d6e1ae37a68296333f388a67041d05abc4",
-            "underlyingTokens": [
-                "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-                "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
-            ],
-            "pool": "0x513db2d6e1ae37a68296333f388a67041d05abc4",
-            "token1Img": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
-            "description": "Baryon LP token between BNB Token and B-Peg BUSD"
-        }
-    },
-    {
         "address": "0x889Ae28947e6B1Fba8d1bDDF9b6e02d8636C5dcD",
         "symbol": "CUSD-BUSD",
         "name": "Baryon CUSD-BUSD Baryon LP",
@@ -80,6 +60,26 @@
             "token0Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
             "token1Img": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
             "description": "Baryon LP token between Coin98 Dollar and B-Peg BUSD"
+        }
+    },
+    {
+        "address": "0x513DB2D6e1AE37a68296333F388a67041d05abc4",
+        "symbol": "BNB-BUSD",
+        "name": "Baryon BNB-BUSD Baryon LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x513db2d6e1ae37a68296333f388a67041d05abc4/icon.png",
+        "decimals": 18,
+        "chainId": 56,
+        "extensions": {
+            "twitter": "https://twitter.com/BaryonNetwork",
+            "source": "Baryon",
+            "website": "https://baryon.network/pool/0x513db2d6e1ae37a68296333f388a67041d05abc4",
+            "underlyingTokens": [
+                "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+                "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+            ],
+            "pool": "0x513db2d6e1ae37a68296333f388a67041d05abc4",
+            "token1Img": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
+            "description": "Baryon LP token between BNB Token and B-Peg BUSD"
         }
     },
     {
