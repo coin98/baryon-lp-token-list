@@ -68,6 +68,27 @@
             }
         },
         {
+            "address": "0xdaA13f5C951dCa466ec173f358DA0F81fda75bF9",
+            "symbol": "INS-C98",
+            "name": "Baryon INS-C98 Baryon LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0xdaa13f5c951dca466ec173f358da0f81fda75bf9/icon.png",
+            "decimals": 18,
+            "chainId": 56,
+            "extensions": {
+                "twitter": "https://twitter.com/BaryonNetwork",
+                "source": "Baryon",
+                "website": "https://baryon.network/pool/0xdaa13f5c951dca466ec173f358da0f81fda75bf9",
+                "underlyingTokens": [
+                    "0x5C93F4B35d3dD97Ef481881aA33d00F76806FdAD",
+                    "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6"
+                ],
+                "pool": "0xdaa13f5c951dca466ec173f358da0f81fda75bf9",
+                "token0Img": "https://coin98.s3.amazonaws.com/1zkUABYppr2n2KpL",
+                "token1Img": "https://coin98.s3.amazonaws.com/uwqLJuMfd8fsehgM",
+                "description": "Baryon LP token between Coin98 Insights and Coin98"
+            }
+        },
+        {
             "address": "0xa49DF16b1b085356081C37b02028E47979D395F9",
             "symbol": "C98-CUSD",
             "name": "Baryon C98-CUSD Baryon LP",
@@ -398,27 +419,6 @@
                 "pool": "0xc9955fc2e87bae1bbc97bfd3bcf029578651b9de",
                 "token1Img": "https://coin98.s3.amazonaws.com/UdgBKzkZLYQKMRuu",
                 "description": "Baryon LP token between BNB Token and Dark Energy Crystals"
-            }
-        },
-        {
-            "address": "0xdaA13f5C951dCa466ec173f358DA0F81fda75bF9",
-            "symbol": "INS-C98",
-            "name": "Baryon INS-C98 Baryon LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0xdaa13f5c951dca466ec173f358da0f81fda75bf9/icon.png",
-            "decimals": 18,
-            "chainId": 56,
-            "extensions": {
-                "twitter": "https://twitter.com/BaryonNetwork",
-                "source": "Baryon",
-                "website": "https://baryon.network/pool/0xdaa13f5c951dca466ec173f358da0f81fda75bf9",
-                "underlyingTokens": [
-                    "0x5C93F4B35d3dD97Ef481881aA33d00F76806FdAD",
-                    "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6"
-                ],
-                "pool": "0xdaa13f5c951dca466ec173f358da0f81fda75bf9",
-                "token0Img": "https://coin98.s3.amazonaws.com/1zkUABYppr2n2KpL",
-                "token1Img": "https://coin98.s3.amazonaws.com/uwqLJuMfd8fsehgM",
-                "description": "Baryon LP token between Coin98 Insights and Coin98"
             }
         }
     ]
