@@ -172,26 +172,6 @@
             }
         },
         {
-            "address": "0xf9a4bF63ebCaE85ad6376E46e2F33f408094a810",
-            "symbol": "BOXING-AURA",
-            "name": "Baryon BOXING-AURA Baryon LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0xf9a4bf63ebcae85ad6376e46e2f33f408094a810/icon.png",
-            "decimals": 18,
-            "chainId": 56,
-            "extensions": {
-                "twitter": "https://twitter.com/BaryonNetwork",
-                "source": "Baryon",
-                "website": "https://baryon.network/pool/0xf9a4bf63ebcae85ad6376e46e2f33f408094a810",
-                "underlyingTokens": [
-                    "0x02d13F76Ad167dEE06E77d574e17C1161BD0A3e6",
-                    "0x23c5D1164662758b3799103Effe19cC064d897D6"
-                ],
-                "pool": "0xf9a4bf63ebcae85ad6376e46e2f33f408094a810",
-                "token1Img": "https://coin98.s3.amazonaws.com/h4aShzmyUoD3xRsf",
-                "description": "Baryon LP token between Boxing Token and Aura"
-            }
-        },
-        {
             "address": "0x66Ed1dA101f5CF67f07030d5EE30670ed0f5d1A9",
             "symbol": "HOTCROSS-CUSD",
             "name": "Baryon HOTCROSS-CUSD Baryon LP",
@@ -440,6 +420,26 @@
                 "pool": "0x56855d944c8b93f107c16a1ecc87e307998cdbe0",
                 "token1Img": "https://coin98.s3.amazonaws.com/JXxDDtJKASh0SSt5",
                 "description": "Baryon LP token between BNB Token and Impossible \bFinance"
+            }
+        },
+        {
+            "address": "0xf9a4bF63ebCaE85ad6376E46e2F33f408094a810",
+            "symbol": "BOXING-AURA",
+            "name": "Baryon BOXING-AURA Baryon LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0xf9a4bf63ebcae85ad6376e46e2f33f408094a810/icon.png",
+            "decimals": 18,
+            "chainId": 56,
+            "extensions": {
+                "twitter": "https://twitter.com/BaryonNetwork",
+                "source": "Baryon",
+                "website": "https://baryon.network/pool/0xf9a4bf63ebcae85ad6376e46e2f33f408094a810",
+                "underlyingTokens": [
+                    "0x02d13F76Ad167dEE06E77d574e17C1161BD0A3e6",
+                    "0x23c5D1164662758b3799103Effe19cC064d897D6"
+                ],
+                "pool": "0xf9a4bf63ebcae85ad6376e46e2f33f408094a810",
+                "token1Img": "https://coin98.s3.amazonaws.com/h4aShzmyUoD3xRsf",
+                "description": "Baryon LP token between Boxing Token and Aura"
             }
         },
         {
