@@ -42,27 +42,6 @@
         }
     },
     {
-        "address": "0xD02488851649825f0e4B4Eb6729da4da3D02b601",
-        "symbol": "KRS-C98",
-        "name": "Baryon KRS-C98 Baryon LP",
-        "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0xd02488851649825f0e4b4eb6729da4da3d02b601/icon.png",
-        "decimals": 18,
-        "chainId": 56,
-        "extensions": {
-            "twitter": "https://twitter.com/BaryonNetwork",
-            "source": "Baryon",
-            "website": "https://baryon.network/pool/0xd02488851649825f0e4b4eb6729da4da3d02b601",
-            "underlyingTokens": [
-                "0x37b53894e7429f794B56F22a32E1695567Ee9913",
-                "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6"
-            ],
-            "pool": "0xd02488851649825f0e4b4eb6729da4da3d02b601",
-            "token0Img": "https://coin98.s3.amazonaws.com/AJmY8Ns7sx0OYTge",
-            "token1Img": "https://coin98.s3.amazonaws.com/uwqLJuMfd8fsehgM",
-            "description": "Baryon LP token between Kingdom Raids and Coin98"
-        }
-    },
-    {
         "address": "0x889Ae28947e6B1Fba8d1bDDF9b6e02d8636C5dcD",
         "symbol": "CUSD-BUSD",
         "name": "Baryon CUSD-BUSD Baryon LP",
@@ -81,6 +60,27 @@
             "token0Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
             "token1Img": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
             "description": "Baryon LP token between Coin98 Dollar and B-Peg BUSD"
+        }
+    },
+    {
+        "address": "0xD02488851649825f0e4B4Eb6729da4da3D02b601",
+        "symbol": "KRS-C98",
+        "name": "Baryon KRS-C98 Baryon LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0xd02488851649825f0e4b4eb6729da4da3d02b601/icon.png",
+        "decimals": 18,
+        "chainId": 56,
+        "extensions": {
+            "twitter": "https://twitter.com/BaryonNetwork",
+            "source": "Baryon",
+            "website": "https://baryon.network/pool/0xd02488851649825f0e4b4eb6729da4da3d02b601",
+            "underlyingTokens": [
+                "0x37b53894e7429f794B56F22a32E1695567Ee9913",
+                "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6"
+            ],
+            "pool": "0xd02488851649825f0e4b4eb6729da4da3d02b601",
+            "token0Img": "https://coin98.s3.amazonaws.com/AJmY8Ns7sx0OYTge",
+            "token1Img": "https://coin98.s3.amazonaws.com/uwqLJuMfd8fsehgM",
+            "description": "Baryon LP token between Kingdom Raids and Coin98"
         }
     },
     {
