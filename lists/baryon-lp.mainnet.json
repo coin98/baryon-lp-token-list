@@ -47,27 +47,6 @@
             }
         },
         {
-            "address": "0x889Ae28947e6B1Fba8d1bDDF9b6e02d8636C5dcD",
-            "symbol": "CUSD-BUSD",
-            "name": "Baryon CUSD-BUSD Baryon LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x889ae28947e6b1fba8d1bddf9b6e02d8636c5dcd/icon.png",
-            "decimals": 18,
-            "chainId": 56,
-            "extensions": {
-                "twitter": "https://twitter.com/BaryonNetwork",
-                "source": "Baryon",
-                "website": "https://baryon.network/pool/0x889ae28947e6b1fba8d1bddf9b6e02d8636c5dcd",
-                "underlyingTokens": [
-                    "0xFa4BA88Cf97e282c505BEa095297786c16070129",
-                    "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
-                ],
-                "pool": "0x889ae28947e6b1fba8d1bddf9b6e02d8636c5dcd",
-                "token0Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
-                "token1Img": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
-                "description": "Baryon LP token between Coin98 Dollar and B-Peg BUSD"
-            }
-        },
-        {
             "address": "0xD02488851649825f0e4B4Eb6729da4da3D02b601",
             "symbol": "KRS-C98",
             "name": "Baryon KRS-C98 Baryon LP",
@@ -86,6 +65,27 @@
                 "token0Img": "https://coin98.s3.amazonaws.com/AJmY8Ns7sx0OYTge",
                 "token1Img": "https://coin98.s3.amazonaws.com/uwqLJuMfd8fsehgM",
                 "description": "Baryon LP token between Kingdom Raids and Coin98"
+            }
+        },
+        {
+            "address": "0x889Ae28947e6B1Fba8d1bDDF9b6e02d8636C5dcD",
+            "symbol": "CUSD-BUSD",
+            "name": "Baryon CUSD-BUSD Baryon LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x889ae28947e6b1fba8d1bddf9b6e02d8636c5dcd/icon.png",
+            "decimals": 18,
+            "chainId": 56,
+            "extensions": {
+                "twitter": "https://twitter.com/BaryonNetwork",
+                "source": "Baryon",
+                "website": "https://baryon.network/pool/0x889ae28947e6b1fba8d1bddf9b6e02d8636c5dcd",
+                "underlyingTokens": [
+                    "0xFa4BA88Cf97e282c505BEa095297786c16070129",
+                    "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+                ],
+                "pool": "0x889ae28947e6b1fba8d1bddf9b6e02d8636c5dcd",
+                "token0Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
+                "token1Img": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
+                "description": "Baryon LP token between Coin98 Dollar and B-Peg BUSD"
             }
         },
         {
