@@ -403,26 +403,6 @@
             }
         },
         {
-            "address": "0x56855D944c8b93f107c16a1EcC87E307998cDBe0",
-            "symbol": "BNB-IDIA",
-            "name": "Baryon BNB-IDIA Baryon LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x56855d944c8b93f107c16a1ecc87e307998cdbe0/icon.png",
-            "decimals": 18,
-            "chainId": 56,
-            "extensions": {
-                "twitter": "https://twitter.com/BaryonNetwork",
-                "source": "Baryon",
-                "website": "https://baryon.network/pool/0x56855d944c8b93f107c16a1ecc87e307998cdbe0",
-                "underlyingTokens": [
-                    "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-                    "0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89"
-                ],
-                "pool": "0x56855d944c8b93f107c16a1ecc87e307998cdbe0",
-                "token1Img": "https://coin98.s3.amazonaws.com/JXxDDtJKASh0SSt5",
-                "description": "Baryon LP token between BNB Token and Impossible \bFinance"
-            }
-        },
-        {
             "address": "0xf9a4bF63ebCaE85ad6376E46e2F33f408094a810",
             "symbol": "BOXING-AURA",
             "name": "Baryon BOXING-AURA Baryon LP",
@@ -460,6 +440,26 @@
                 "pool": "0xc9955fc2e87bae1bbc97bfd3bcf029578651b9de",
                 "token1Img": "https://coin98.s3.amazonaws.com/UdgBKzkZLYQKMRuu",
                 "description": "Baryon LP token between BNB Token and Dark Energy Crystals"
+            }
+        },
+        {
+            "address": "0x56855D944c8b93f107c16a1EcC87E307998cDBe0",
+            "symbol": "BNB-IDIA",
+            "name": "Baryon BNB-IDIA Baryon LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x56855d944c8b93f107c16a1ecc87e307998cdbe0/icon.png",
+            "decimals": 18,
+            "chainId": 56,
+            "extensions": {
+                "twitter": "https://twitter.com/BaryonNetwork",
+                "source": "Baryon",
+                "website": "https://baryon.network/pool/0x56855d944c8b93f107c16a1ecc87e307998cdbe0",
+                "underlyingTokens": [
+                    "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+                    "0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89"
+                ],
+                "pool": "0x56855d944c8b93f107c16a1ecc87e307998cdbe0",
+                "token1Img": "https://coin98.s3.amazonaws.com/JXxDDtJKASh0SSt5",
+                "description": "Baryon LP token between BNB Token and Impossible \bFinance"
             }
         }
     ]
