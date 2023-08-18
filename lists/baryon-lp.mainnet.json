@@ -423,6 +423,26 @@
             }
         },
         {
+            "address": "0xF2e8Ed0fE16b7c47843461c1ECFE92ef55AA8149",
+            "symbol": "BNB-CUSD",
+            "name": "Baryon BNB-CUSD Baryon LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0xf2e8ed0fe16b7c47843461c1ecfe92ef55aa8149/icon.png",
+            "decimals": 18,
+            "chainId": 56,
+            "extensions": {
+                "twitter": "https://twitter.com/BaryonNetwork",
+                "source": "Baryon",
+                "website": "https://baryon.network/pool/0xf2e8ed0fe16b7c47843461c1ecfe92ef55aa8149",
+                "underlyingTokens": [
+                    "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+                    "0xFa4BA88Cf97e282c505BEa095297786c16070129"
+                ],
+                "pool": "0xf2e8ed0fe16b7c47843461c1ecfe92ef55aa8149",
+                "token1Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
+                "description": "Baryon LP token between BNB Token and Coin98 Dollar"
+            }
+        },
+        {
             "address": "0xf9a4bF63ebCaE85ad6376E46e2F33f408094a810",
             "symbol": "BOXING-AURA",
             "name": "Baryon BOXING-AURA Baryon LP",
