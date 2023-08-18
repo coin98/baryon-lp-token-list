@@ -319,27 +319,6 @@
             }
         },
         {
-            "address": "0x44F75791fd6dC61C0C4555eE8a85F4C5fC36BbB6",
-            "symbol": "HOTCROSS-BUSD",
-            "name": "Baryon HOTCROSS-BUSD Baryon LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x44f75791fd6dc61c0c4555ee8a85f4c5fc36bbb6/icon.png",
-            "decimals": 18,
-            "chainId": 56,
-            "extensions": {
-                "twitter": "https://twitter.com/BaryonNetwork",
-                "source": "Baryon",
-                "website": "https://baryon.network/pool/0x44f75791fd6dc61c0c4555ee8a85f4c5fc36bbb6",
-                "underlyingTokens": [
-                    "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
-                    "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
-                ],
-                "pool": "0x44f75791fd6dc61c0c4555ee8a85f4c5fc36bbb6",
-                "token0Img": "https://coin98.s3.amazonaws.com/Ax0nd9sJtwl15tPU",
-                "token1Img": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
-                "description": "Baryon LP token between Hot Cross and B-Peg BUSD"
-            }
-        },
-        {
             "address": "0x346B28b0da0cBa94f66a20D657cd03bAa273Cc99",
             "symbol": "USDT-CUSD",
             "name": "Baryon USDT-CUSD Baryon LP",
@@ -379,6 +358,27 @@
                 "token0Img": "https://coin98.s3.amazonaws.com/tdUgG6fE0Z74QaFm",
                 "token1Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
                 "description": "Baryon LP token between USD Coin and Coin98 Dollar"
+            }
+        },
+        {
+            "address": "0x44F75791fd6dC61C0C4555eE8a85F4C5fC36BbB6",
+            "symbol": "HOTCROSS-BUSD",
+            "name": "Baryon HOTCROSS-BUSD Baryon LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x44f75791fd6dc61c0c4555ee8a85f4c5fc36bbb6/icon.png",
+            "decimals": 18,
+            "chainId": 56,
+            "extensions": {
+                "twitter": "https://twitter.com/BaryonNetwork",
+                "source": "Baryon",
+                "website": "https://baryon.network/pool/0x44f75791fd6dc61c0c4555ee8a85f4c5fc36bbb6",
+                "underlyingTokens": [
+                    "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+                    "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+                ],
+                "pool": "0x44f75791fd6dc61c0c4555ee8a85f4c5fc36bbb6",
+                "token0Img": "https://coin98.s3.amazonaws.com/Ax0nd9sJtwl15tPU",
+                "token1Img": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
+                "description": "Baryon LP token between Hot Cross and B-Peg BUSD"
             }
         },
         {
