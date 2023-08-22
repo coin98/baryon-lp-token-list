@@ -476,5 +476,26 @@
             "token1Img": "https://coin98.s3.amazonaws.com/UdgBKzkZLYQKMRuu",
             "description": "Baryon LP token between BNB Token and Dark Energy Crystals"
         }
+    },
+    {
+        "address": "0x5c75e2412CcaBb21c3263364a875B8dc139f17a1",
+        "symbol": "OGS-KRS",
+        "name": "Baryon OGS-KRS Baryon LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x5c75e2412ccabb21c3263364a875b8dc139f17a1/icon.png",
+        "decimals": 18,
+        "chainId": 56,
+        "extensions": {
+            "twitter": "https://twitter.com/BaryonNetwork",
+            "source": "Baryon",
+            "website": "https://baryon.network/pool/0x5c75e2412ccabb21c3263364a875b8dc139f17a1",
+            "underlyingTokens": [
+                "0x416947e6Fc78F158fd9B775fA846B72d768879c2",
+                "0x37b53894e7429f794B56F22a32E1695567Ee9913"
+            ],
+            "pool": "0x5c75e2412ccabb21c3263364a875b8dc139f17a1",
+            "token0Img": "https://coin98.s3.amazonaws.com/zKJkd8rNLOkrk6vR",
+            "token1Img": "https://coin98.s3.amazonaws.com/AJmY8Ns7sx0OYTge",
+            "description": "Baryon LP token between Ouro Governance Share and Kingdom Raids"
+        }
     }
 ]
