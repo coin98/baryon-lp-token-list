@@ -20,15 +20,15 @@
                     "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
                 ],
                 "pool": "0x9f1a332c0657ce3f90666ad38dbe2e92793abf5c",
-                "token0Img": "https://coin98.s3.amazonaws.com/cKhh8tAun8twnKA7",
-                "token1Img": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
-                "description": "Baryon LP token between Aura and B-Peg BUSD"
+                "token0Img": "https://coin98.s3.amazonaws.com/h4aShzmyUoD3xRsf",
+                "token1Img": "https://coin98.s3.amazonaws.com/PIpdSxI2l3IvYejl",
+                "description": "Baryon LP token between Aura Network and Binance-Peg BUSD"
             }
         },
         {
             "address": "0xf4D3d0f1A9937F9D4DA871D19Cf47EcBF2C61F61",
-            "symbol": "C98-AURA",
-            "name": "Baryon C98-AURA Baryon LP",
+            "symbol": "AURA-C98",
+            "name": "Baryon AURA-C98 Baryon LP",
             "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0xf4d3d0f1a9937f9d4da871d19cf47ecbf2c61f61/icon.png",
             "decimals": 18,
             "chainId": 56,
@@ -37,13 +37,13 @@
                 "source": "Baryon",
                 "website": "https://baryon.network/pool/0xf4d3d0f1a9937f9d4da871d19cf47ecbf2c61f61",
                 "underlyingTokens": [
-                    "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6",
-                    "0x23c5D1164662758b3799103Effe19cC064d897D6"
+                    "0x23c5D1164662758b3799103Effe19cC064d897D6",
+                    "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6"
                 ],
                 "pool": "0xf4d3d0f1a9937f9d4da871d19cf47ecbf2c61f61",
-                "token0Img": "https://coin98.s3.amazonaws.com/uwqLJuMfd8fsehgM",
-                "token1Img": "https://coin98.s3.amazonaws.com/cKhh8tAun8twnKA7",
-                "description": "Baryon LP token between Coin98 and Aura"
+                "token0Img": "https://coin98.s3.amazonaws.com/h4aShzmyUoD3xRsf",
+                "token1Img": "https://coin98.s3.amazonaws.com/uwqLJuMfd8fsehgM",
+                "description": "Baryon LP token between Aura Network and Coin98"
             }
         },
         {
@@ -83,15 +83,15 @@
                     "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6"
                 ],
                 "pool": "0xdaa13f5c951dca466ec173f358da0f81fda75bf9",
-                "token0Img": "https://coin98.s3.amazonaws.com/1zkUABYppr2n2KpL",
+                "token0Img": "https://coin98.s3.amazonaws.com/iuCImzc1UW9IIxRa",
                 "token1Img": "https://coin98.s3.amazonaws.com/uwqLJuMfd8fsehgM",
                 "description": "Baryon LP token between Coin98 Insights and Coin98"
             }
         },
         {
             "address": "0x889Ae28947e6B1Fba8d1bDDF9b6e02d8636C5dcD",
-            "symbol": "CUSD-BUSD",
-            "name": "Baryon CUSD-BUSD Baryon LP",
+            "symbol": "BUSD-CUSD",
+            "name": "Baryon BUSD-CUSD Baryon LP",
             "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x889ae28947e6b1fba8d1bddf9b6e02d8636c5dcd/icon.png",
             "decimals": 18,
             "chainId": 56,
@@ -100,13 +100,13 @@
                 "source": "Baryon",
                 "website": "https://baryon.network/pool/0x889ae28947e6b1fba8d1bddf9b6e02d8636c5dcd",
                 "underlyingTokens": [
-                    "0xFa4BA88Cf97e282c505BEa095297786c16070129",
-                    "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+                    "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+                    "0xFa4BA88Cf97e282c505BEa095297786c16070129"
                 ],
                 "pool": "0x889ae28947e6b1fba8d1bddf9b6e02d8636c5dcd",
-                "token0Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
-                "token1Img": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
-                "description": "Baryon LP token between Coin98 Dollar and B-Peg BUSD"
+                "token0Img": "https://coin98.s3.amazonaws.com/PIpdSxI2l3IvYejl",
+                "token1Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
+                "description": "Baryon LP token between Binance-Peg BUSD and Coin98 Dollar"
             }
         },
         {
@@ -146,8 +146,9 @@
                     "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
                 ],
                 "pool": "0x513db2d6e1ae37a68296333f388a67041d05abc4",
-                "token1Img": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
-                "description": "Baryon LP token between BNB Token and B-Peg BUSD"
+                "token0Img": null,
+                "token1Img": "https://coin98.s3.amazonaws.com/PIpdSxI2l3IvYejl",
+                "description": "Baryon LP token between BNB Token and Binance-Peg BUSD"
             }
         },
         {
@@ -167,8 +168,8 @@
                 ],
                 "pool": "0xfc21c32ae553e1aa2a9cf42b4cea620ef4a45291",
                 "token0Img": "https://coin98.s3.amazonaws.com/uwqLJuMfd8fsehgM",
-                "token1Img": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
-                "description": "Baryon LP token between Coin98 and B-Peg BUSD"
+                "token1Img": "https://coin98.s3.amazonaws.com/PIpdSxI2l3IvYejl",
+                "description": "Baryon LP token between Coin98 and Binance-Peg BUSD"
             }
         },
         {
@@ -209,8 +210,8 @@
                 ],
                 "pool": "0xe5613fbb3d02565546a7a2a715aca53834bf1293",
                 "token0Img": "https://coin98.s3.amazonaws.com/zKJkd8rNLOkrk6vR",
-                "token1Img": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
-                "description": "Baryon LP token between Ouro Governance Share and B-Peg BUSD"
+                "token1Img": "https://coin98.s3.amazonaws.com/PIpdSxI2l3IvYejl",
+                "description": "Baryon LP token between Ouro Governance Share and Binance-Peg BUSD"
             }
         },
         {
@@ -252,7 +253,7 @@
                 "pool": "0xf94f0577da2913b29c40e87d73807227bbd35c13",
                 "token0Img": "https://coin98.s3.amazonaws.com/JXxDDtJKASh0SSt5",
                 "token1Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
-                "description": "Baryon LP token between Impossible Decentralized Incubator Access and Coin98 Dollar"
+                "description": "Baryon LP token between Impossible Finance and Coin98 Dollar"
             }
         },
         {
@@ -272,8 +273,8 @@
                 ],
                 "pool": "0xe8b8b3854f6bdfb131d5e8bd90f661bf311695f5",
                 "token0Img": "https://coin98.s3.amazonaws.com/YdtByABCXrtluMlX",
-                "token1Img": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
-                "description": "Baryon LP token between Thetan Arena and B-Peg BUSD"
+                "token1Img": "https://coin98.s3.amazonaws.com/PIpdSxI2l3IvYejl",
+                "description": "Baryon LP token between Thetan Arena and Binance-Peg BUSD"
             }
         },
         {
@@ -299,8 +300,8 @@
         },
         {
             "address": "0x7B1C395e87404d4DA0eb86DFD6b09cF0B1AeEb65",
-            "symbol": "C98-USDT",
-            "name": "Baryon C98-USDT Baryon LP",
+            "symbol": "USDT-C98",
+            "name": "Baryon USDT-C98 Baryon LP",
             "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x7b1c395e87404d4da0eb86dfd6b09cf0b1aeeb65/icon.png",
             "decimals": 18,
             "chainId": 56,
@@ -309,13 +310,13 @@
                 "source": "Baryon",
                 "website": "https://baryon.network/pool/0x7b1c395e87404d4da0eb86dfd6b09cf0b1aeeb65",
                 "underlyingTokens": [
-                    "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6",
-                    "0x55d398326f99059fF775485246999027B3197955"
+                    "0x55d398326f99059fF775485246999027B3197955",
+                    "0xaEC945e04baF28b135Fa7c640f624f8D90F1C3a6"
                 ],
                 "pool": "0x7b1c395e87404d4da0eb86dfd6b09cf0b1aeeb65",
-                "token0Img": "https://coin98.s3.amazonaws.com/uwqLJuMfd8fsehgM",
-                "token1Img": "https://coin98.s3.amazonaws.com/ezlQ989CDrZKqHyF",
-                "description": "Baryon LP token between Coin98 and Tether"
+                "token0Img": "https://coin98.s3.amazonaws.com/jpjgywX0Hki6T9Rp",
+                "token1Img": "https://coin98.s3.amazonaws.com/uwqLJuMfd8fsehgM",
+                "description": "Baryon LP token between Tether and Coin98"
             }
         },
         {
@@ -334,7 +335,7 @@
                     "0xFa4BA88Cf97e282c505BEa095297786c16070129"
                 ],
                 "pool": "0x346b28b0da0cba94f66a20d657cd03baa273cc99",
-                "token0Img": "https://coin98.s3.amazonaws.com/ezlQ989CDrZKqHyF",
+                "token0Img": "https://coin98.s3.amazonaws.com/jpjgywX0Hki6T9Rp",
                 "token1Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
                 "description": "Baryon LP token between Tether and Coin98 Dollar"
             }
@@ -377,8 +378,8 @@
                 ],
                 "pool": "0x44f75791fd6dc61c0c4555ee8a85f4c5fc36bbb6",
                 "token0Img": "https://coin98.s3.amazonaws.com/Ax0nd9sJtwl15tPU",
-                "token1Img": "https://coin98.s3.amazonaws.com/1M4PPVwJga2kEn6T",
-                "description": "Baryon LP token between Hot Cross and B-Peg BUSD"
+                "token1Img": "https://coin98.s3.amazonaws.com/PIpdSxI2l3IvYejl",
+                "description": "Baryon LP token between Hot Cross and Binance-Peg BUSD"
             }
         },
         {
@@ -404,8 +405,8 @@
         },
         {
             "address": "0x56855D944c8b93f107c16a1EcC87E307998cDBe0",
-            "symbol": "BNB-IDIA",
-            "name": "Baryon BNB-IDIA Baryon LP",
+            "symbol": "IDIA-BNB",
+            "name": "Baryon IDIA-BNB Baryon LP",
             "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x56855d944c8b93f107c16a1ecc87e307998cdbe0/icon.png",
             "decimals": 18,
             "chainId": 56,
@@ -414,12 +415,13 @@
                 "source": "Baryon",
                 "website": "https://baryon.network/pool/0x56855d944c8b93f107c16a1ecc87e307998cdbe0",
                 "underlyingTokens": [
-                    "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-                    "0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89"
+                    "0x0b15Ddf19D47E6a86A56148fb4aFFFc6929BcB89",
+                    "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
                 ],
                 "pool": "0x56855d944c8b93f107c16a1ecc87e307998cdbe0",
-                "token1Img": "https://coin98.s3.amazonaws.com/JXxDDtJKASh0SSt5",
-                "description": "Baryon LP token between BNB Token and Impossible \bFinance"
+                "token0Img": "https://coin98.s3.amazonaws.com/JXxDDtJKASh0SSt5",
+                "token1Img": null,
+                "description": "Baryon LP token between Impossible Finance and BNB Token"
             }
         },
         {
@@ -439,7 +441,7 @@
                 ],
                 "pool": "0xf9a4bf63ebcae85ad6376e46e2f33f408094a810",
                 "token1Img": "https://coin98.s3.amazonaws.com/h4aShzmyUoD3xRsf",
-                "description": "Baryon LP token between Boxing Token and Aura"
+                "description": "Baryon LP token between Boxing Token and Aura Network"
             }
         },
         {
@@ -458,14 +460,15 @@
                     "0xE9D7023f2132D55cbd4Ee1f78273CB7a3e74F10A"
                 ],
                 "pool": "0xc9955fc2e87bae1bbc97bfd3bcf029578651b9de",
+                "token0Img": null,
                 "token1Img": "https://coin98.s3.amazonaws.com/UdgBKzkZLYQKMRuu",
                 "description": "Baryon LP token between BNB Token and Dark Energy Crystals"
             }
         },
         {
             "address": "0x5c75e2412CcaBb21c3263364a875B8dc139f17a1",
-            "symbol": "OGS-KRS",
-            "name": "Baryon OGS-KRS Baryon LP",
+            "symbol": "KRS-OGS",
+            "name": "Baryon KRS-OGS Baryon LP",
             "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x5c75e2412ccabb21c3263364a875b8dc139f17a1/icon.png",
             "decimals": 18,
             "chainId": 56,
@@ -474,13 +477,13 @@
                 "source": "Baryon",
                 "website": "https://baryon.network/pool/0x5c75e2412ccabb21c3263364a875b8dc139f17a1",
                 "underlyingTokens": [
-                    "0x416947e6Fc78F158fd9B775fA846B72d768879c2",
-                    "0x37b53894e7429f794B56F22a32E1695567Ee9913"
+                    "0x37b53894e7429f794B56F22a32E1695567Ee9913",
+                    "0x416947e6Fc78F158fd9B775fA846B72d768879c2"
                 ],
                 "pool": "0x5c75e2412ccabb21c3263364a875b8dc139f17a1",
-                "token0Img": "https://coin98.s3.amazonaws.com/zKJkd8rNLOkrk6vR",
-                "token1Img": "https://coin98.s3.amazonaws.com/AJmY8Ns7sx0OYTge",
-                "description": "Baryon LP token between Ouro Governance Share and Kingdom Raids"
+                "token0Img": "https://coin98.s3.amazonaws.com/AJmY8Ns7sx0OYTge",
+                "token1Img": "https://coin98.s3.amazonaws.com/zKJkd8rNLOkrk6vR",
+                "description": "Baryon LP token between Kingdom Raids and Ouro Governance Share"
             }
         },
         {
@@ -499,6 +502,7 @@
                     "0xFa4BA88Cf97e282c505BEa095297786c16070129"
                 ],
                 "pool": "0xf2e8ed0fe16b7c47843461c1ecfe92ef55aa8149",
+                "token0Img": null,
                 "token1Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
                 "description": "Baryon LP token between BNB Token and Coin98 Dollar"
             }
