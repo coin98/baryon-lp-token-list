@@ -5,27 +5,6 @@
     "timestamp": "2022-03-15T00:00:00.099Z",
     "tokens": [
         {
-            "address": "0x9f1A332c0657ce3F90666ad38dBe2E92793Abf5c",
-            "symbol": "AURA-BUSD",
-            "name": "Baryon AURA-BUSD Baryon LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x9f1a332c0657ce3f90666ad38dbe2e92793abf5c/icon.png",
-            "decimals": 18,
-            "chainId": 56,
-            "extensions": {
-                "twitter": "https://twitter.com/BaryonNetwork",
-                "source": "Baryon",
-                "website": "https://baryon.network/pool/0x9f1a332c0657ce3f90666ad38dbe2e92793abf5c",
-                "underlyingTokens": [
-                    "0x23c5D1164662758b3799103Effe19cC064d897D6",
-                    "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
-                ],
-                "pool": "0x9f1a332c0657ce3f90666ad38dbe2e92793abf5c",
-                "token0Img": "https://coin98.s3.amazonaws.com/h4aShzmyUoD3xRsf",
-                "token1Img": "https://coin98.s3.amazonaws.com/PIpdSxI2l3IvYejl",
-                "description": "Baryon LP token between Aura Network and Binance-Peg BUSD"
-            }
-        },
-        {
             "address": "0xf4D3d0f1A9937F9D4DA871D19Cf47EcBF2C61F61",
             "symbol": "AURA-C98",
             "name": "Baryon AURA-C98 Baryon LP",
@@ -44,6 +23,27 @@
                 "token0Img": "https://coin98.s3.amazonaws.com/h4aShzmyUoD3xRsf",
                 "token1Img": "https://coin98.s3.amazonaws.com/uwqLJuMfd8fsehgM",
                 "description": "Baryon LP token between Aura Network and Coin98"
+            }
+        },
+        {
+            "address": "0x9f1A332c0657ce3F90666ad38dBe2E92793Abf5c",
+            "symbol": "AURA-BUSD",
+            "name": "Baryon AURA-BUSD Baryon LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x9f1a332c0657ce3f90666ad38dbe2e92793abf5c/icon.png",
+            "decimals": 18,
+            "chainId": 56,
+            "extensions": {
+                "twitter": "https://twitter.com/BaryonNetwork",
+                "source": "Baryon",
+                "website": "https://baryon.network/pool/0x9f1a332c0657ce3f90666ad38dbe2e92793abf5c",
+                "underlyingTokens": [
+                    "0x23c5D1164662758b3799103Effe19cC064d897D6",
+                    "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+                ],
+                "pool": "0x9f1a332c0657ce3f90666ad38dbe2e92793abf5c",
+                "token0Img": "https://coin98.s3.amazonaws.com/h4aShzmyUoD3xRsf",
+                "token1Img": "https://coin98.s3.amazonaws.com/PIpdSxI2l3IvYejl",
+                "description": "Baryon LP token between Aura Network and Binance-Peg BUSD"
             }
         },
         {
