@@ -147,6 +147,26 @@
         }
     },
     {
+        "address": "0x0e1A930F869D077253a87fD6F8beE80ca2F08Fcc",
+        "symbol": "USDT-WKBO",
+        "name": "Baryon USDT-WKBO Baryon LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x0e1a930f869d077253a87fd6f8bee80ca2f08fcc/icon.png",
+        "decimals": 18,
+        "chainId": 56,
+        "extensions": {
+            "twitter": "https://twitter.com/BaryonNetwork",
+            "source": "Baryon",
+            "website": "https://baryon.network/pool/0x0e1a930f869d077253a87fd6f8bee80ca2f08fcc",
+            "underlyingTokens": [
+                "0x55d398326f99059fF775485246999027B3197955",
+                "0xF48A6134AaE5fC7186fEe6a7F874426AF69Aecf8"
+            ],
+            "pool": "0x0e1a930f869d077253a87fd6f8bee80ca2f08fcc",
+            "token0Img": "https://coin98.s3.amazonaws.com/jpjgywX0Hki6T9Rp",
+            "description": "Baryon LP token between Tether and WRAPPED-KIBHO"
+        }
+    },
+    {
         "address": "0xFC21C32ae553e1AA2a9cf42b4CeA620Ef4A45291",
         "symbol": "C98-BUSD",
         "name": "Baryon C98-BUSD Baryon LP",
