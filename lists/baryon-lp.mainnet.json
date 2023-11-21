@@ -131,6 +131,26 @@
             }
         },
         {
+            "address": "0x0e1A930F869D077253a87fD6F8beE80ca2F08Fcc",
+            "symbol": "USDT-WKBO",
+            "name": "Baryon USDT-WKBO Baryon LP",
+            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x0e1a930f869d077253a87fd6f8bee80ca2f08fcc/icon.png",
+            "decimals": 18,
+            "chainId": 56,
+            "extensions": {
+                "twitter": "https://twitter.com/BaryonNetwork",
+                "source": "Baryon",
+                "website": "https://baryon.network/pool/0x0e1a930f869d077253a87fd6f8bee80ca2f08fcc",
+                "underlyingTokens": [
+                    "0x55d398326f99059fF775485246999027B3197955",
+                    "0xF48A6134AaE5fC7186fEe6a7F874426AF69Aecf8"
+                ],
+                "pool": "0x0e1a930f869d077253a87fd6f8bee80ca2f08fcc",
+                "token0Img": "https://coin98.s3.amazonaws.com/hNlJzEdjNHyG1mzG",
+                "description": "Baryon LP token between Tether and WRAPPED-KIBHO"
+            }
+        },
+        {
             "address": "0x513DB2D6e1AE37a68296333F388a67041d05abc4",
             "symbol": "BNB-BUSD",
             "name": "Baryon BNB-BUSD Baryon LP",
@@ -170,26 +190,6 @@
                 "token0Img": "https://coin98.s3.amazonaws.com/uwqLJuMfd8fsehgM",
                 "token1Img": "https://coin98.s3.amazonaws.com/PIpdSxI2l3IvYejl",
                 "description": "Baryon LP token between Coin98 and Binance-Peg BUSD"
-            }
-        },
-        {
-            "address": "0x0e1A930F869D077253a87fD6F8beE80ca2F08Fcc",
-            "symbol": "USDT-WKBO",
-            "name": "Baryon USDT-WKBO Baryon LP",
-            "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x0e1a930f869d077253a87fd6f8bee80ca2f08fcc/icon.png",
-            "decimals": 18,
-            "chainId": 56,
-            "extensions": {
-                "twitter": "https://twitter.com/BaryonNetwork",
-                "source": "Baryon",
-                "website": "https://baryon.network/pool/0x0e1a930f869d077253a87fd6f8bee80ca2f08fcc",
-                "underlyingTokens": [
-                    "0x55d398326f99059fF775485246999027B3197955",
-                    "0xF48A6134AaE5fC7186fEe6a7F874426AF69Aecf8"
-                ],
-                "pool": "0x0e1a930f869d077253a87fd6f8bee80ca2f08fcc",
-                "token0Img": "https://coin98.s3.amazonaws.com/hNlJzEdjNHyG1mzG",
-                "description": "Baryon LP token between Tether and WRAPPED-KIBHO"
             }
         },
         {
