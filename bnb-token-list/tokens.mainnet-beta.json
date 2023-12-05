@@ -272,27 +272,6 @@
         }
     },
     {
-        "address": "0x44F75791fd6dC61C0C4555eE8a85F4C5fC36BbB6",
-        "symbol": "HOTCROSS-BUSD",
-        "name": "Baryon HOTCROSS-BUSD Baryon LP",
-        "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x44f75791fd6dc61c0c4555ee8a85f4c5fc36bbb6/icon.png",
-        "decimals": 18,
-        "chainId": 56,
-        "extensions": {
-            "twitter": "https://twitter.com/BaryonNetwork",
-            "source": "Baryon",
-            "website": "https://baryon.network/pool/0x44f75791fd6dc61c0c4555ee8a85f4c5fc36bbb6",
-            "underlyingTokens": [
-                "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
-                "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
-            ],
-            "pool": "0x44f75791fd6dc61c0c4555ee8a85f4c5fc36bbb6",
-            "token0Img": "https://coin98.s3.amazonaws.com/Ax0nd9sJtwl15tPU",
-            "token1Img": "https://coin98.s3.amazonaws.com/PIpdSxI2l3IvYejl",
-            "description": "Baryon LP token between Hot Cross and Binance-Peg BUSD"
-        }
-    },
-    {
         "address": "0xF94f0577Da2913b29C40E87D73807227bbD35c13",
         "symbol": "IDIA-CUSD",
         "name": "Baryon IDIA-CUSD Baryon LP",
@@ -311,6 +290,27 @@
             "token0Img": "https://coin98.s3.amazonaws.com/JXxDDtJKASh0SSt5",
             "token1Img": "https://coin98.s3.ap-southeast-1.amazonaws.com/Coin/CUSDC98.png",
             "description": "Baryon LP token between Impossible Finance and CUSD"
+        }
+    },
+    {
+        "address": "0x44F75791fd6dC61C0C4555eE8a85F4C5fC36BbB6",
+        "symbol": "HOTCROSS-BUSD",
+        "name": "Baryon HOTCROSS-BUSD Baryon LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x44f75791fd6dc61c0c4555ee8a85f4c5fc36bbb6/icon.png",
+        "decimals": 18,
+        "chainId": 56,
+        "extensions": {
+            "twitter": "https://twitter.com/BaryonNetwork",
+            "source": "Baryon",
+            "website": "https://baryon.network/pool/0x44f75791fd6dc61c0c4555ee8a85f4c5fc36bbb6",
+            "underlyingTokens": [
+                "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6",
+                "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+            ],
+            "pool": "0x44f75791fd6dc61c0c4555ee8a85f4c5fc36bbb6",
+            "token0Img": "https://coin98.s3.amazonaws.com/Ax0nd9sJtwl15tPU",
+            "token1Img": "https://coin98.s3.amazonaws.com/PIpdSxI2l3IvYejl",
+            "description": "Baryon LP token between Hot Cross and Binance-Peg BUSD"
         }
     },
     {
