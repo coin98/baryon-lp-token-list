@@ -481,6 +481,26 @@
         }
     },
     {
+        "address": "0x3a9E43f75e0c538Fa1af96C29DCf6E36fd464acC",
+        "symbol": "6236-BNB",
+        "name": "Baryon 6236-BNB Baryon LP",
+        "logoURI": "https://raw.githubusercontent.com/coin98/baryon-lp-token-list/master/assets/mainnet/0x3a9e43f75e0c538fa1af96c29dcf6e36fd464acc/icon.png",
+        "decimals": 18,
+        "chainId": 56,
+        "extensions": {
+            "twitter": "https://twitter.com/BaryonNetwork",
+            "source": "Baryon",
+            "website": "https://baryon.network/pool/0x3a9e43f75e0c538fa1af96c29dcf6e36fd464acc",
+            "underlyingTokens": [
+                "0x853eE45Bc1D1191634671D1324F0B872A3102420",
+                "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+            ],
+            "pool": "0x3a9e43f75e0c538fa1af96c29dcf6e36fd464acc",
+            "token1Img": null,
+            "description": "Baryon LP token between III and BNB Token"
+        }
+    },
+    {
         "address": "0x5c75e2412CcaBb21c3263364a875B8dc139f17a1",
         "symbol": "KRS-OGS",
         "name": "Baryon KRS-OGS Baryon LP",
